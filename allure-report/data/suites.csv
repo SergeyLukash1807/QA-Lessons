@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 15 13:25:39 EET 2024","Mon Jul 15 13:25:47 EET 2024","7762","","org.example.MtsbyTest","","org.example.MtsbyTest","testServicePaymentProcess","Проверка процесса оплаты услуг","Проверить процесс оплаты для услуги 'Услуги связи'."
+"passed","Mon Jul 15 13:25:47 EET 2024","Mon Jul 15 13:25:53 EET 2024","5832","","org.example.MtsbyTest","","org.example.MtsbyTest","testFieldTextForAllPaymentOptions","Проверка текстов полей для всех вариантов оплаты","Проверить, что тексты заполнителей для всех вариантов оплаты корректны."

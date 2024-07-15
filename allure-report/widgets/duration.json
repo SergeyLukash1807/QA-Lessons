@@ -1,0 +1,1 @@
+[{"uid":"7f09723438122641","name":"Проверка процесса оплаты услуг","time":{"start":1721042739584,"stop":1721042747346,"duration":7762},"status":"passed","severity":"normal"},{"uid":"b8a4019beec59ce4","name":"Проверка текстов полей для всех вариантов оплаты","time":{"start":1721042747620,"stop":1721042753452,"duration":5832},"status":"passed","severity":"normal"}]
